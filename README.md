@@ -16,9 +16,11 @@ Powerful women • Learning, exploring and challenging myself • Design, custom
 Watch anime • Customize my Arch installation • Code • Listen to music • Play games
 
 ## <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Links
-<a href="http://linkedin.com/in/ingridrosselis"><img height="40" src="https://raw.githubusercontent.com/innng/innng/96abf375529168e5ad27a9148548d4d0d8ad216a/assets/linkedin-in.svg"/></a>
-<a href="https://resume.io/r/zUDFmwciy"><img height="40" src="https://raw.githubusercontent.com/innng/innng/96abf375529168e5ad27a9148548d4d0d8ad216a/assets/user-circle.svg"/></a>
-<a href="https://www.meetup.com/members/262353843/"><img height="40" src="https://raw.githubusercontent.com/innng/innng/96abf375529168e5ad27a9148548d4d0d8ad216a/assets/meetup.svg"/></a>
-<a href="https://www.youracclaim.com/users/ingridrosselis/badges"><img height="40" src="https://raw.githubusercontent.com/innng/innng/96abf375529168e5ad27a9148548d4d0d8ad216a/assets/award.svg"/></a>
+[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](http://linkedin.com/in/ingridrosselis)
+[![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/itsinnng)
+[![](https://img.shields.io/badge/-meetup-EE3E5D?style=flat-square)](https://www.meetup.com/members/262353843/)
+[![](https://img.shields.io/badge/-resume-332B40?style=flat-square)](https://resume.io/r/zUDFmwciy)
+[![](https://img.shields.io/badge/-badges-2D4E00?style=flat-square)](https://www.youracclaim.com/users/ingridrosselis/badges)
+
 
 
