@@ -3,14 +3,13 @@
 </div>
 
 ## <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-madoka.gif"/> About me
-Ingrid • Brazilian • Back-end Software Engineer/DevOps • Computer Science undergraduate 
+Non binary person • Brazilian • Back-end Software Engineer/DevOps • Computer Science undergraduate 
 
 ## <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-homura.gif"/> I like these technologies
-Python • Rust • Go • Functional programming • CI/CD • Ansible • Cloud computing
+Python • Rust • Functional programming • CI/CD • Ansible • Cloud computing
 
 ## <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-mami.gif"/> I love
 Powerful women • Learning, exploring and challenging myself • Design, customization and colors • Games and animations • Linux
-
 
 ## <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-kyoko.gif"/> On my free time I like to
 Watch anime • Customize my Arch installation • Code • Listen to music • Play games
