@@ -1,7 +1,8 @@
 <div align="center">
-<img width="600" src="https://raw.githubusercontent.com/innng/innng/master/assets/about.gif"/>
+<img max-width="800" src="https://raw.githubusercontent.com/innng/innng/master/assets/about.png"/>
 </div>
 
+## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](http://linkedin.com/in/ingridrosselis)
 [![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/itsinnng)
 [![](https://img.shields.io/badge/-meetup-EE3E5D?style=flat-square)](https://www.meetup.com/members/262353843/)
