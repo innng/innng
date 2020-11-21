@@ -1,5 +1,5 @@
 <div align="center">
-<img max-width="800" src="https://raw.githubusercontent.com/innng/innng/master/assets/about.png"/>
+<img max-width="800" src="https://raw.githubusercontent.com/innng/innng/master/assets/Github%20Profile.png"/>
 </div>
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links
