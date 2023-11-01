@@ -17,6 +17,10 @@
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](http://linkedin.com/in/ingridrosselis)
 
 
+<a href="http://linkedin.com/in/ingridrosselis" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-0a66c2"/>
+</a>
+
 <a href="http://linkedin.com/in/ingridrosselis" target="_blank">aaaa</a>
 
 ![https://img.shields.io/badge/linkedin-0a66c2](https://external.ink?to=linkedin.com/in/ingridrosselis)
