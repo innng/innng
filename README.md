@@ -1,9 +1,25 @@
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=60&duration=4000&pause=300&color=D47471&vCenter=true&random=false&width=1024&height=140&lines=Hello+hello;I'm+Ing+✩;tech+goblin;platform+engineer;and+magical+girl+wannabe" width="40%"  /><img src="https://static.wikia.nocookie.net/gensin-impact/images/9/97/Namecard_Banner_Yae_Miko_Kitsune_Dreaming.png" width="60%" />
+
 <div align="center">
-<img max-width="800" src="https://github.com/innng/innng/blob/master/assets/Github%20Profile%203-1(4).png"/>
+    <pre>
+      💼 BSC @ UFMG • Back-end dev • Platform Engineer
+      💻 System programming languages • DevOps • <img src="https://cdn.simpleicons.org/python/000/fff" height="15" width="15" /> <img src="https://cdn.simpleicons.org/rust/000/fff" height="15" width="15" /> <img src="https://cdn.simpleicons.org/go/000/fff" height="15" width="15" /> <img src="https://cdn.simpleicons.org/kubernetes/000/fff" height="15" width="15" /> <img src="https://cdn.simpleicons.org/amazonaws/000/fff" height="15" width="15" /> 
+      📖 Software architecture • Distributed systems
+      🎮 Music • Games • Anime • Code • Art
+      🐾 Muffin 🐰 • Cake & Cookie🐤🐥</pre> 
 </div>
 
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links
-[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](http://linkedin.com/in/ingridrosselis)
-[![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/_innng_)
-[![](https://img.shields.io/badge/-resume-332B40?style=flat-square)](https://resume.io/r/zUDFmwciy)
-[![](https://img.shields.io/badge/-badges-2D4E00?style=flat-square)](https://www.youracclaim.com/users/ingridrosselis/badges)
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+
+<a href="http://linkedin.com/in/ingridrosselis" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-blue"/>
+</a>
+<a href="https://osu.ppy.sh/users/4606212" target="_blank">
+  <img src="https://img.shields.io/badge/osu!-ff66ab"/>
+</a>
+<a href="https://enka.network/u/Inng/1A4HU1/10000069/1985924/" target="_blank">
+  <img src="https://img.shields.io/badge/enka.network-69899c"/>
+</a>
+  
+
+
