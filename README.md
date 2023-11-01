@@ -11,15 +11,20 @@
 
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 
-<a href="http://linkedin.com/in/ingridrosselis" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-blue"/>
-</a>
-<a href="https://osu.ppy.sh/users/4606212" target="_blank">
-  <img src="https://img.shields.io/badge/osu!-ff66ab"/>
-</a>
-<a href="https://enka.network/u/Inng/1A4HU1/10000069/1985924/" target="_blank">
-  <img src="https://img.shields.io/badge/enka.network-69899c"/>
-</a>
-  
+[![](https://img.shields.io/badge/linkedin-0a66c2)](<a href="http://linkedin.com/in/ingridrosselis" target="_blank" />)
+[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](http://linkedin.com/in/ingridrosselis)
+[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](http://linkedin.com/in/ingridrosselis)
+[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](http://linkedin.com/in/ingridrosselis)
 
+
+
+
+![<a href="http://linkedin.com/in/ingridrosselis" target="_blank" />](https://img.shields.io/badge/linkedin-0a66c2)
+
+
+
+![<a href="http://linkedin.com/in/ingridrosselis" target="_blank" />](https://img.shields.io/badge/linkedin-0a66c2)
+![<a href="https://tech.lgbt/@innng" target="_blank" />](https://img.shields.io/badge/mastodon-6364ff)
+![<a href="https://osu.ppy.sh/users/4606212" target="_blank" />](https://img.shields.io/badge/osu!-ff66ab)
+![<a href="https://enka.network/u/Inng/1A4HU1/10000069/1985924/" target="_blank" />](https://img.shields.io/badge/enka.network-69899c)
 
