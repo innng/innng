@@ -17,11 +17,11 @@
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](http://linkedin.com/in/ingridrosselis)
 
 
+<a href="http://linkedin.com/in/ingridrosselis" target="_blank">aaaa</a>
 
+![https://img.shields.io/badge/linkedin-0a66c2](https://external.ink?to=linkedin.com/in/ingridrosselis)
 
-![<a href="http://linkedin.com/in/ingridrosselis" target="_blank" />](https://img.shields.io/badge/linkedin-0a66c2)
-
-
+![<img src="https://img.shields.io/badge/linkedin-0a66c2" />](<a href="http://linkedin.com/in/ingridrosselis" target="_blank" />)
 
 ![<a href="http://linkedin.com/in/ingridrosselis" target="_blank" />](https://img.shields.io/badge/linkedin-0a66c2)
 ![<a href="https://tech.lgbt/@innng" target="_blank" />](https://img.shields.io/badge/mastodon-6364ff)
